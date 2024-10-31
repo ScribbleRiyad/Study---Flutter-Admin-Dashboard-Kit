@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Genevra",
+    "student_id": 19470273779,
+    "student_class": "VII B",
+    "rank": "First",
+    "fees": 514
+  },
+  {
+    "name": "Nerti",
+    "student_id": 27192163242,
+    "student_class": "VII A",
+    "rank": "First",
+    "fees": 963
+  },
+  {
+    "name": "Kari",
+    "student_id": 63085012153,
+    "student_class": "VII B",
+    "rank": "First",
+    "fees": 566
+  },
+  {
+    "name": "Bastian",
+    "student_id": 99087615016,
+    "student_class": "VII C",
+    "rank": "First",
+    "fees": 276
+  },
+  {
+    "name": "Rog",
+    "student_id": 87193457886,
+    "student_class": "VII A",
+    "rank": "First",
+    "fees": 552
+  },
+  {
+    "name": "Lianna",
+    "student_id": 19931999447,
+    "student_class": "VII C",
+    "rank": "First",
+    "fees": 306
+  },
+  {
+    "name": "Kean",
+    "student_id": 81113169809,
+    "student_class": "VII B",
+    "rank": "First",
+    "fees": 234
+  },
+  {
+    "name": "Rodd",
+    "student_id": 60532241507,
+    "student_class": "VII D",
+    "rank": "First",
+    "fees": 320
+  },
+  {
+    "name": "Bronnie",
+    "student_id": 28267219046,
+    "student_class": "VII B",
+    "rank": "First",
+    "fees": 174
+  },
+  {
+    "name": "Kristin",
+    "student_id": 35312267882,
+    "student_class": "VII A",
+    "rank": "First",
+    "fees": 293
+  },
+  {
+    "name": "Guglielmo",
+    "student_id": 61607551981,
+    "student_class": "VII B",
+    "rank": "First",
+    "fees": 660
+  },
+  {
+    "name": "Carolan",
+    "student_id": 11017509543,
+    "student_class": "VII D",
+    "rank": "First",
+    "fees": 453
+  },
+  {
+    "name": "Courtney",
+    "student_id": 18571227558,
+    "student_class": "VII B",
+    "rank": "First",
+    "fees": 965
+  },
+  {
+    "name": "Goddart",
+    "student_id": 81996963265,
+    "student_class": "VII B",
+    "rank": "First",
+    "fees": 751
+  },
+  {
+    "name": "Ber",
+    "student_id": 62910890887,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 360
+  },
+  {
+    "name": "Barb",
+    "student_id": 13083180216,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 859
+  },
+  {
+    "name": "King",
+    "student_id": 79389523623,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 465
+  },
+  {
+    "name": "Shelly",
+    "student_id": 76281068515,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 246
+  },
+  {
+    "name": "Tremaine",
+    "student_id": 50610005280,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 134
+  },
+  {
+    "name": "Clarissa",
+    "student_id": 97965425943,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 441
+  },
+  {
+    "name": "Izaak",
+    "student_id": 33382284584,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 483
+  },
+  {
+    "name": "Elle",
+    "student_id": 68154659925,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 814
+  },
+  {
+    "name": "Martainn",
+    "student_id": 18893247530,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 822
+  },
+  {
+    "name": "Fawnia",
+    "student_id": 22485041280,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 175
+  },
+  {
+    "name": "Allayne",
+    "student_id": 88237745573,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 612
+  },
+  {
+    "name": "Gipsy",
+    "student_id": 70459271533,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 846
+  },
+  {
+    "name": "Katine",
+    "student_id": 77377747467,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 577
+  },
+  {
+    "name": "Nevile",
+    "student_id": 69740754211,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 382
+  },
+  {
+    "name": "Richy",
+    "student_id": 19376602339,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 349
+  },
+  {
+    "name": "Toma",
+    "student_id": 32441588493,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 964
+  },
+  {
+    "name": "Millard",
+    "student_id": 74446954347,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 789
+  },
+  {
+    "name": "Titus",
+    "student_id": 75322135341,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 127
+  },
+  {
+    "name": "Melodee",
+    "student_id": 33912766696,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 498
+  },
+  {
+    "name": "Gnni",
+    "student_id": 32887183482,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 930
+  },
+  {
+    "name": "Van",
+    "student_id": 40949463668,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 105
+  },
+  {
+    "name": "Dal",
+    "student_id": 69944014031,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 274
+  },
+  {
+    "name": "Claudie",
+    "student_id": 97364747101,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 712
+  },
+  {
+    "name": "Karry",
+    "student_id": 19932914296,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 623
+  },
+  {
+    "name": "Terrie",
+    "student_id": 99159666202,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 230
+  },
+  {
+    "name": "Rory",
+    "student_id": 13744858280,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 844
+  },
+  {
+    "name": "Colman",
+    "student_id": 67426782046,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 888
+  },
+  {
+    "name": "Bennie",
+    "student_id": 14948840717,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 678
+  },
+  {
+    "name": "Westleigh",
+    "student_id": 49757192440,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 908
+  },
+  {
+    "name": "Fabien",
+    "student_id": 75187582783,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 783
+  },
+  {
+    "name": "Alvy",
+    "student_id": 27864139597,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 376
+  },
+  {
+    "name": "Jackqueline",
+    "student_id": 82750284766,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 649
+  },
+  {
+    "name": "Ewell",
+    "student_id": 10797799218,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 694
+  },
+  {
+    "name": "Kermit",
+    "student_id": 62766644220,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 739
+  },
+  {
+    "name": "Rinaldo",
+    "student_id": 55841079212,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 285
+  },
+  {
+    "name": "Mickie",
+    "student_id": 93721086297,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 374
+  },
+  {
+    "name": "Bradan",
+    "student_id": 32392764361,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 792
+  },
+  {
+    "name": "Sibylle",
+    "student_id": 31844892685,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 317
+  },
+  {
+    "name": "Edyth",
+    "student_id": 22612680001,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 944
+  },
+  {
+    "name": "Kimble",
+    "student_id": 89717184357,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 160
+  },
+  {
+    "name": "Krysta",
+    "student_id": 10679324454,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 414
+  },
+  {
+    "name": "Jocelyne",
+    "student_id": 34434358388,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 478
+  },
+  {
+    "name": "Hill",
+    "student_id": 23146363676,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 152
+  },
+  {
+    "name": "Alfonse",
+    "student_id": 61631720038,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 592
+  },
+  {
+    "name": "Vivi",
+    "student_id": 23717597000,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 594
+  },
+  {
+    "name": "Guillermo",
+    "student_id": 16602600202,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 944
+  },
+  {
+    "name": "Branden",
+    "student_id": 55765315490,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 159
+  },
+  {
+    "name": "Domenico",
+    "student_id": 90531436768,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 126
+  },
+  {
+    "name": "Marja",
+    "student_id": 76513318701,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 355
+  },
+  {
+    "name": "Sabina",
+    "student_id": 19087944550,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 393
+  },
+  {
+    "name": "Rochette",
+    "student_id": 61906270836,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 517
+  },
+  {
+    "name": "Lucien",
+    "student_id": 37525805920,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 822
+  },
+  {
+    "name": "Sheila-kathryn",
+    "student_id": 23628150444,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 205
+  },
+  {
+    "name": "Alene",
+    "student_id": 45423204503,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 532
+  },
+  {
+    "name": "Ondrea",
+    "student_id": 55323972843,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 951
+  },
+  {
+    "name": "Rasla",
+    "student_id": 24278401684,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 461
+  },
+  {
+    "name": "Roberta",
+    "student_id": 18627995871,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 292
+  },
+  {
+    "name": "Cathee",
+    "student_id": 61434758826,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 174
+  },
+  {
+    "name": "Gabbie",
+    "student_id": 78497183309,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 344
+  },
+  {
+    "name": "Frederick",
+    "student_id": 25430314648,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 532
+  },
+  {
+    "name": "Emmy",
+    "student_id": 73171202522,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 176
+  },
+  {
+    "name": "Fayth",
+    "student_id": 69414098743,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 594
+  },
+  {
+    "name": "Aubry",
+    "student_id": 94571465155,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 549
+  },
+  {
+    "name": "Fred",
+    "student_id": 75697784184,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 324
+  },
+  {
+    "name": "Morissa",
+    "student_id": 68131785869,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 460
+  },
+  {
+    "name": "Matteo",
+    "student_id": 93571782364,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 366
+  },
+  {
+    "name": "Giffy",
+    "student_id": 24403184029,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 412
+  },
+  {
+    "name": "Margy",
+    "student_id": 56602738122,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 768
+  },
+  {
+    "name": "Bertrand",
+    "student_id": 40812254311,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 880
+  },
+  {
+    "name": "Winonah",
+    "student_id": 28703165135,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 689
+  },
+  {
+    "name": "Randy",
+    "student_id": 82763321364,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 666
+  },
+  {
+    "name": "Rustie",
+    "student_id": 95590816266,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 208
+  },
+  {
+    "name": "Regine",
+    "student_id": 63250411657,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 580
+  },
+  {
+    "name": "Ester",
+    "student_id": 46769812438,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 111
+  },
+  {
+    "name": "Skip",
+    "student_id": 33616095578,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 673
+  },
+  {
+    "name": "Cherrita",
+    "student_id": 95693142345,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 743
+  },
+  {
+    "name": "Gasper",
+    "student_id": 10768527348,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 849
+  },
+  {
+    "name": "Nichole",
+    "student_id": 99539940474,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 974
+  },
+  {
+    "name": "Nikolia",
+    "student_id": 11123679605,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 656
+  },
+  {
+    "name": "Corella",
+    "student_id": 62616931817,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 685
+  },
+  {
+    "name": "Etienne",
+    "student_id": 64652345603,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 528
+  },
+  {
+    "name": "Danice",
+    "student_id": 33354175604,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 393
+  },
+  {
+    "name": "Putnam",
+    "student_id": 86187430371,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 249
+  },
+  {
+    "name": "Jori",
+    "student_id": 57994005156,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 902
+  },
+  {
+    "name": "Davidde",
+    "student_id": 28762566019,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 458
+  },
+  {
+    "name": "Suzanne",
+    "student_id": 79040310158,
+    "student_class": "VII",
+    "rank": "First",
+    "fees": 519
+  }
+]
